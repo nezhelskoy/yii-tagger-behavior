@@ -2,8 +2,8 @@
 /**
  * TaggerBehavior class file
  *
- * @author Nezhelskoy Dmitry <dmitry@nezhelskoy.ru>
- * @link https://github.com/nezhelskoy/yii-taggerbehavior
+ * @author Dmitry Nezhelskoy <dmitry@nezhelskoy.ru>
+ * @link https://github.com/nezhelskoy/yii-tagger-behavior
  * @copyright Copyright (c) 2012 Dmitry Nezhelskoy
  * @version 0.0.1
  * @license "BSD-3-Clause"
